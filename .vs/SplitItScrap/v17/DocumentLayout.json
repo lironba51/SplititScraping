@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|solutionrelative:splititscrap\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF44036-48C7-49A9-A20B-A0EFA840EF5F}|SplitItScrap.DB\\SplitItScrap.DB.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.db\\repositories\\actors\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF44036-48C7-49A9-A20B-A0EFA840EF5F}|SplitItScrap.DB\\SplitItScrap.DB.csproj|solutionrelative:splititscrap.db\\repositories\\actors\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\actors\\actorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\actors\\actorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\actors\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\actors\\iactorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\actors\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\actors\\entities\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\repositories\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\repositories\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap\\splititscrapautomapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|solutionrelative:splititscrap\\splititscrapautomapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap\\models\\actors\\actormodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|solutionrelative:splititscrap\\models\\actors\\actormodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|solutionrelative:splititscrap\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap\\models\\actors\\actormodelquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|solutionrelative:splititscrap\\models\\actors\\actormodelquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\uploads\\uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\uploads\\uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\providers\\providerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\providers\\providerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|solutionrelative:splititscrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\providers\\imdbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\providers\\imdbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\providers\\iprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\providers\\iprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\uploads\\iuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\uploads\\iuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\providers\\iproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\providers\\iproviderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap.domain\\services\\actors\\entities\\providertypecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19337FAB-EB44-4441-9E8C-1B7688EF5300}|SplitItScrap.Domain\\SplitItScrap.Domain.csproj|solutionrelative:splititscrap.domain\\services\\actors\\entities\\providertypecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap\\models\\actors\\actormodellstview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|solutionrelative:splititscrap\\models\\actors\\actormodellstview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LironBaranes\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|c:\\liron\\private\\projects\\spliit\\splititscrap\\splititscrap\\splititscrap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B613D76-1312-4BAC-9E69-35F7458015C0}|SplitItScrap\\SplitItScrap.csproj|solutionrelative:splititscrap\\splititscrap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IActorRepository.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Repositories\\IActorRepository.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Repositories\\IActorRepository.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Repositories\\IActorRepository.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Repositories\\IActorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:22:24.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Program.cs",
+              "RelativeDocumentMoniker": "SplitItScrap\\Program.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Program.cs",
+              "RelativeToolTip": "SplitItScrap\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAARwDUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:58:31.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "SplitItScrap\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "SplitItScrap\\Controllers\\UploadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:45:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "SplitItScrap\\Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "SplitItScrap\\Controllers\\ActorsController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAlwEgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:43:16.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Actors\\Entities\\Actor.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Actors\\Entities\\Actor.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Actors\\Entities\\Actor.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Actors\\Entities\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:24:34.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActorModelView.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Models\\Actors\\ActorModelView.cs",
+              "RelativeDocumentMoniker": "SplitItScrap\\Models\\Actors\\ActorModelView.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Models\\Actors\\ActorModelView.cs",
+              "RelativeToolTip": "SplitItScrap\\Models\\Actors\\ActorModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:07:25.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SplitItScrapAutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\SplitItScrapAutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SplitItScrap\\SplitItScrapAutoMapperProfile.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\SplitItScrapAutoMapperProfile.cs",
+              "RelativeToolTip": "SplitItScrap\\SplitItScrapAutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:18:55.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActorsService.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Actors\\ActorsService.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Actors\\ActorsService.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Actors\\ActorsService.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Actors\\ActorsService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIAxwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:34:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActorRepository.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.DB\\Repositories\\Actors\\ActorRepository.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.DB\\Repositories\\Actors\\ActorRepository.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.DB\\Repositories\\Actors\\ActorRepository.cs",
+              "RelativeToolTip": "SplitItScrap.DB\\Repositories\\Actors\\ActorRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwFoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:59:39.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IActorsService.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Actors\\IActorsService.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Actors\\IActorsService.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Actors\\IActorsService.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Actors\\IActorsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:21:46.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMDBProvider.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Providers\\IMDBProvider.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Providers\\IMDBProvider.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Providers\\IMDBProvider.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Providers\\IMDBProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:07:51.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActorModelQuery.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Models\\Actors\\ActorModelQuery.cs",
+              "RelativeDocumentMoniker": "SplitItScrap\\Models\\Actors\\ActorModelQuery.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Models\\Actors\\ActorModelQuery.cs",
+              "RelativeToolTip": "SplitItScrap\\Models\\Actors\\ActorModelQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:20:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProvider.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Providers\\IProvider.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Providers\\IProvider.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Providers\\IProvider.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Providers\\IProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:09:06.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProviderFactory.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Providers\\IProviderFactory.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Providers\\IProviderFactory.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Providers\\IProviderFactory.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Providers\\IProviderFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:17:00.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProviderFactory.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Providers\\ProviderFactory.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Providers\\ProviderFactory.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Providers\\ProviderFactory.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Providers\\ProviderFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:18:33.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UploadService.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Uploads\\UploadService.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Uploads\\UploadService.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Uploads\\UploadService.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Uploads\\UploadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:29:02.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUploadService.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Uploads\\IUploadService.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Uploads\\IUploadService.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Uploads\\IUploadService.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Uploads\\IUploadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:29:18.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\LironBaranes\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\LironBaranes\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\LironBaranes\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\LironBaranes\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAcwGQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:05:28.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProviderTypeCode.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Actors\\Entities\\ProviderTypeCode.cs",
+              "RelativeDocumentMoniker": "SplitItScrap.Domain\\Services\\Actors\\Entities\\ProviderTypeCode.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\Services\\Actors\\Entities\\ProviderTypeCode.cs",
+              "RelativeToolTip": "SplitItScrap.Domain\\Services\\Actors\\Entities\\ProviderTypeCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:25:11.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ActorModelLstView.cs",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Models\\Actors\\ActorModelLstView.cs",
+              "RelativeDocumentMoniker": "SplitItScrap\\Models\\Actors\\ActorModelLstView.cs",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\Models\\Actors\\ActorModelLstView.cs",
+              "RelativeToolTip": "SplitItScrap\\Models\\Actors\\ActorModelLstView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:16:20.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SplitItScrap.csproj",
+              "DocumentMoniker": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\SplitItScrap.csproj",
+              "RelativeDocumentMoniker": "SplitItScrap\\SplitItScrap.csproj",
+              "ToolTip": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\SplitItScrap.csproj",
+              "RelativeToolTip": "SplitItScrap\\SplitItScrap.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T04:43:47.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\SplitItScrap.csproj": {}
+  },
+  "projects": {
+    "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.DB\\SplitItScrap.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.DB\\SplitItScrap.DB.csproj",
+        "projectName": "SplitItScrap.DB",
+        "projectPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.DB\\SplitItScrap.DB.csproj",
+        "packagesPath": "C:\\Users\\LironBaranes\\.nuget\\packages\\",
+        "outputPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LironBaranes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Liron\\Git\\LocalNugets": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ship4wd/Ship4wd/_packaging/Ship4WSNuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\SplitItScrap.Domain.csproj": {
+                "projectPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\SplitItScrap.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\SplitItScrap.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\SplitItScrap.Domain.csproj",
+        "projectName": "SplitItScrap.Domain",
+        "projectPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\SplitItScrap.Domain.csproj",
+        "packagesPath": "C:\\Users\\LironBaranes\\.nuget\\packages\\",
+        "outputPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LironBaranes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Liron\\Git\\LocalNugets": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ship4wd/Ship4wd/_packaging/Ship4WSNuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.12.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\SplitItScrap.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\SplitItScrap.csproj",
+        "projectName": "SplitItScrap",
+        "projectPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\SplitItScrap.csproj",
+        "packagesPath": "C:\\Users\\LironBaranes\\.nuget\\packages\\",
+        "outputPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LironBaranes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Liron\\Git\\LocalNugets": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ship4wd/Ship4wd/_packaging/Ship4WSNuGet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.DB\\SplitItScrap.DB.csproj": {
+                "projectPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.DB\\SplitItScrap.DB.csproj"
+              },
+              "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\SplitItScrap.Domain.csproj": {
+                "projectPath": "C:\\Liron\\Private\\Projects\\Spliit\\SplitItScrap\\SplitItScrap.Domain\\SplitItScrap.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

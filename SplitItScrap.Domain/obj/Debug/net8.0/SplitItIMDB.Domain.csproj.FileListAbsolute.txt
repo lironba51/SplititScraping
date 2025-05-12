@@ -1,0 +1,12 @@
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\bin\Debug\net8.0\SplitItIMDB.Domain.deps.json
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\bin\Debug\net8.0\SplitItIMDB.Domain.dll
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\bin\Debug\net8.0\SplitItIMDB.Domain.pdb
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\obj\Debug\net8.0\SplitItIMDB.Domain.csproj.AssemblyReference.cache
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\obj\Debug\net8.0\SplitItIMDB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\obj\Debug\net8.0\SplitItIMDB.Domain.AssemblyInfoInputs.cache
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\obj\Debug\net8.0\SplitItIMDB.Domain.AssemblyInfo.cs
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\obj\Debug\net8.0\SplitItIMDB.Domain.csproj.CoreCompileInputs.cache
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\obj\Debug\net8.0\SplitItIMDB.Domain.dll
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\obj\Debug\net8.0\refint\SplitItIMDB.Domain.dll
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\obj\Debug\net8.0\SplitItIMDB.Domain.pdb
+C:\Liron\Private\Projects\Spliit\SplitItIMDB\SplitItIMDB.Domain\obj\Debug\net8.0\ref\SplitItIMDB.Domain.dll
